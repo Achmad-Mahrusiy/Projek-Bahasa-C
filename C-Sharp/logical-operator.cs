@@ -27,7 +27,7 @@ namespace MyFirstProgram
             {
                 Console.WriteLine("Kembangkan pekerjaanmu");
             }
-        }
-        Console.ReadKey();
-      }
-  }
+            Console.ReadKey();
+        }    
+    }
+}
