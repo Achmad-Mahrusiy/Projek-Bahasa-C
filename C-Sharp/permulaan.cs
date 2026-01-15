@@ -8,6 +8,8 @@ using System;
       static void Main(string[] args)
       {
         console.WriteLine("Hidup Jokowi");
+        console.Write("Untuk tulisan sebaris");
+        console.ReadKey();
       }
     } 
   }
