@@ -104,6 +104,8 @@ namespace MyFirstProgram
 
             }
 
+            Console.WriteLine("Thanks for playing!");
+
             Console.ReadKey();
         }
     }
