@@ -30,7 +30,7 @@ namespace MyFirstProgram
                 Console.WriteLine("\t1. + : tambah");
                 Console.WriteLine("\t2. - : kurang"); 
                 Console.WriteLine("\t3. * : kali");
-                Console.WriteLine("\t4.  / : bagi");
+                Console.WriteLine("\t4. / : bagi");
                 Console.Write("Masukkan opsi: ");
 
                 switch (Console.ReadLine())
