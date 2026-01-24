@@ -7,13 +7,9 @@ namespace MyFirstProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Enter Your First Name: ");
-            String firstName = Console.ReadLine();
+            String namalengkap = Console.ReadLine();
 
-            Console.WriteLine("Enter Your last name ");
-            String lastName = Console.ReadLine();
-
-            String fullName = firstName + " " + lastName;
-            String userName = fullName.Insert(0, "Tuan atau nyonya. ");
+            String userName = namalengkap.Insert(0, "Tuan atau nyonya. ");
 
             Console.WriteLine("Masukkan Tahun kelahiran anda");
             String tahun = Console.ReadLine();
