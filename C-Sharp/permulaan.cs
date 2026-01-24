@@ -16,3 +16,4 @@ using System;
 
 
 // ya beginilah hidup bro
+//harus dijalani apa adanya
