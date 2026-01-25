@@ -37,3 +37,6 @@ int main()
     std::cout << "========= Mantap =========\n";
     return 0;
 }
+
+
+// gabut aja wak
